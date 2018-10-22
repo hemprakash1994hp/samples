@@ -4,8 +4,7 @@
 # https://aka.ms/yaml
 
 pool:
-  vmImage: 'Hosted ubuntu 1604'
-
+  vmImage: 'Hosted VS2017
 steps:
 - task: ArchiveFiles@2
   inputs:
