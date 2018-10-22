@@ -4,7 +4,7 @@
 # https://aka.ms/yaml
 
 pool:
-  vmImage: 'hpagent1'
+  vmImage: 'Hosted ubuntu 1604'
 
 steps:
 - task: ArchiveFiles@2
